@@ -5,7 +5,8 @@
 ## Projects
 
 ### ADIDAS 2020- 2021 SALES DASHBOARD (Excel)
-<img src="![Adidas Sales 2020-2021 Dashboard](https://github.com/user-attachments/assets/cd63510f-b8f0-4b6b-b3a6-57ca432da7b7)" width=1200 height=800>
+<img src="portfolio/images/Adidas Sales 2020-2021 Dashboard.jpg" width=1200 height=800>
+
 ### [Adidas US Sales Dataset](https://www.kaggle.com/datasets/sakhawatalilarik/adidas-us-sales-data)
 - Utilized Excel to provide a sales dashboard to provide a comprehensive view of sales data.
 
