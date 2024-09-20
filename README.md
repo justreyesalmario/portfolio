@@ -45,6 +45,5 @@
 - Cleaned data helps create a structured and reliable data set for insights and data trends.
 
 
-## [Projects Files](https://github.com/justreyesalmario/Projects)
-![minimal_laptop](https://github.com/user-attachments/assets/9bff9192-291b-404f-9384-f7d8faeb582e)
+#### [Projects Files](https://github.com/justreyesalmario/Projects)
 
